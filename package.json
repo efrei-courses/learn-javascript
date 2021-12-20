@@ -1,0 +1,8 @@
+{
+  "name": "learn-javascript",
+  "version": "0.0.1",
+  "author": "Call-Me-Dev",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
