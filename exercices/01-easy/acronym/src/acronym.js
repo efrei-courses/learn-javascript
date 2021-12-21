@@ -1,3 +1,3 @@
-export function acronym() {
+export function acronym(string) {
 
 }

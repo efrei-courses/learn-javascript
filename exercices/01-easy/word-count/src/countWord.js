@@ -1,3 +1,3 @@
-export function countWord() {
+export function countWord(string) {
 
 }

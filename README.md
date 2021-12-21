@@ -3,14 +3,15 @@
 ##🌍  Overview
 Let's learn javascript through a set of exercises.
 
-##🚀 Exercices
+##🚀 Exercises
 Please follow each exercise carefully. I know some of you may feel confident about their skills, but you may be missing some basics.
 
 ###😀 01-easy
-- [acronym](exercises/acronym)
-- [word-count](exercises/word-count)
+- [acronym](exercises/01-easy/acronym)
+- [word-count](exercises/01-easy/word-count)
 
 ###😅 02-medium
+- [flatten-array](exercises/02-medium/flatten-array)
 
 ###😭 03-advanced
 
