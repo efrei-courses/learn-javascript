@@ -1,4 +1,4 @@
-<h1 align="middle"> Javascript Exercices </h1>
+<h1 align="middle"> Javascript Exercises </h1>
 
 ## 🌍  Overview
 Let's learn javascript through a set of exercises.
