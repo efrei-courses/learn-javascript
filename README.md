@@ -4,10 +4,13 @@
 Let's learn javascript through a set of exercises.
 
 ##🚀 Exercises
-Please follow each exercise carefully. I know some of you may feel confident about their skills, but you may be missing some basics.
+Please follow each exercise carefully. I know some of you may feel confident about your skills, but you may be missing some basics.
 
 ###😀 01-easy
 - [acronym](exercises/01-easy/acronym)
+- [lower-case](exercises/01-easy/lower-case)
+- [pangram](exercises/01-easy/pangram)
+- [upper-case](exercises/01-easy/upper-case)
 - [word-count](exercises/01-easy/word-count)
 
 ###😅 02-medium
