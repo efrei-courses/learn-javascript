@@ -1,6 +1,6 @@
 <h1 align="middle"> Javascript Exercices </h1>
 
-##🌍  Overview
+## 🌍  Overview
 Let's learn javascript through a set of exercises.
 
 ##🚀 Exercises
@@ -16,7 +16,7 @@ Please follow each exercise carefully. I know some of you may feel confident abo
 ###😅 02-medium
 - [flatten-array](exercises/02-medium/flatten-array)
 
-###😭 03-advanced
+### 😭 03-advanced
 
 
 ## Credits
