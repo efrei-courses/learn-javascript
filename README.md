@@ -3,7 +3,7 @@
 ## 🌍  Overview
 Let's learn javascript through a set of exercises.
 
-##🚀 Exercises
+## 🚀 Exercises
 Please follow each exercise carefully. I know some of you may feel confident about your skills, but you may be missing some basics.
 
 ### 😀 01-easy
