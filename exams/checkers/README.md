@@ -15,7 +15,7 @@ You can find a working example [here](http://thierry.franquin.free.fr/jeudame/Da
 
 * You **MUST** create a directory named `checkers`
 * You **MUST** create a file called `.author`:
-* You **MUST** return your projet thourgh WeTransfer and add your link [here]()
+* You **MUST** return your projet through WeTransfer and add your link [here](https://docs.google.com/spreadsheets/d/1V0PYRZaepY-LeFda4PVIfrZ0C_9Yp9TKPQ9IvJ3srdE/edit?usp=sharing)
 
 ```sh
 ~/efrei-courses/learn-javascript/exams/checkers ❯❯❯ cat -e .author
