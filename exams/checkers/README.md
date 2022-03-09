@@ -19,10 +19,16 @@ You can find a working example [here](http://thierry.franquin.free.fr/jeudame/Da
 
 ```sh
 ~/efrei-courses/learn-javascript/exams/checkers ❯❯❯ cat -e .author
-{
-  "firstName": "Dylan",
-  "lastName": "DE SOUSA"
-}
+[
+  {
+    "firstName": "Dylan",
+    "lastName": "DE SOUSA"
+  },
+  {
+    "firstName": "John",
+    "lastName": "DOE",
+  }
+]
 ```
 
 ## Requirements
