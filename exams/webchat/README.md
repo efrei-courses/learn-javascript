@@ -1,4 +1,4 @@
-<h1 align="middle"> Checkers </h1>
+<h1 align="middle"> Webchat </h1>
 
 ## Summary
 
