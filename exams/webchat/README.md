@@ -56,7 +56,7 @@ Font
     - font-size: 18
 Colors
     - background-color: #0AA6FD OR #EFEFEF
-    - text-color: #EBFAF8
+    - text-color: #EBFAF8 OR #FFFFFF
 ```
 
 #### Inputs
