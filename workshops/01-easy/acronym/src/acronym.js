@@ -11,5 +11,5 @@ console.log(
 
 // It should log -> "NFT"
 console.log(
-  acronym('GNon-Fungible Token'),
+  acronym('Non-Fungible Token'),
 );
